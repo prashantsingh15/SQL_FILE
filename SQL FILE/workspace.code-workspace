@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://white-dentist-nhoit.pwskills.app/config/workspace"
+		}
+	],
+	"remoteAuthority": "white-dentist-nhoit.pwskills.app",
+	"settings": {
+		"workbench.colorTheme": "Default Dark+",
+		"workbench.preferredDarkColorTheme": "Default Dark+",
+		"task.allowAutomaticTasks": "on",
+		"workbench.editorAssociations": {
+			"*.md": "vscode.markdown.preview.editor"
+		}
+	}
+}
